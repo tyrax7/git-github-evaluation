@@ -7,3 +7,5 @@ lucas
 ![alt text](git-branch.png)
 ![alt text](git-log-finale.png)
 ![alt text](git-origin.png)
+![alt text](git-push.png)
+![alt text](git-branch-2.png)

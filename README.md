@@ -9,3 +9,6 @@ lucas
 ![alt text](git-origin.png)
 ![alt text](git-push.png)
 ![alt text](git-branch-2.png)
+## Technologies utilisées
+html/css
+![alt text](pull-request.png)
